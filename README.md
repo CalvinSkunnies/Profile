@@ -5,11 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=calvinskunnies" alt="calvinskunnies" /></a> </p>
 
-- 🌱 I’m currently learning **Rust and Go**
+- 🌱 I’m currently learning **Python and Javascript**
 
 - 📫 How to reach me **calvinsntf@gmail.com**
 
 - Support me on https://saweria.co/CalvinSkunnies
+
+- 💼 Check out my Portfolio on yapp.ink/CalvinSkunnies
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/skunnies" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="skunnies" height="30" width="40" /></a>
