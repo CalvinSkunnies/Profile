@@ -11,7 +11,7 @@
 
 - Support me on https://saweria.co/CalvinSkunnies
 
-- 💼 Check out my Portfolio on https://yapp.ink/CalvinSkunnies
+- 💼 Check out my Portfolio on https://calvinskunnies.my.canva.site
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/skunnies" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="skunnies" height="30" width="40" /></a>
